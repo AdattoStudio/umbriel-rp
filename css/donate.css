@@ -81,7 +81,6 @@ input::-webkit-inner-spin-button {
 	height: 900px;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
 	background-size: cover;
 	background-image: url("./image/Los-Santos-and-the-surrounding 2.png");
 }
